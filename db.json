@@ -2,21 +2,21 @@
     {
         "title": "Esprit Ruffle Shirt",
         "price": "$16.64",
-        "image": "product-01.jpg"
+        "image": "../../assets/images/product-01.jpg"
     },
     {
         "title": "Herschel supply",
         "price": "$35.31",
-        "image": "product-02.jpg"
+        "image": "../../assets/images/product-02.jpg"
     },
     {
         "title": "Only Check Trouser",
         "price": "$25.50",
-        "image": "product-03.jpg"
+        "image": "../../assets/images/product-03.jpg"
     },
     {
         "title": "Classic Trench Coat",
         "price": "$75.00",
-        "image": "product-04.jpg"
+        "image": "../../assets/images/product-04.jpg"
     }
 ]
