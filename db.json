@@ -2,21 +2,21 @@
     {
         "title": "Esprit Ruffle Shirt",
         "price": "$16.64",
-        "image": "../../assets/images/product-01.jpg"
+        "image": "https://raw.githubusercontent.com/27hohuuduc/api/main/images/product-01.jpg"
     },
     {
         "title": "Herschel supply",
         "price": "$35.31",
-        "image": "../../assets/images/product-02.jpg"
+        "image": "https://raw.githubusercontent.com/27hohuuduc/api/main/images/product-02.jpg"
     },
     {
         "title": "Only Check Trouser",
         "price": "$25.50",
-        "image": "../../assets/images/product-03.jpg"
+        "image": "https://raw.githubusercontent.com/27hohuuduc/api/main/images/product-03.jpg"
     },
     {
         "title": "Classic Trench Coat",
         "price": "$75.00",
-        "image": "../../assets/images/product-04.jpg"
+        "image": "https://raw.githubusercontent.com/27hohuuduc/api/main/images/product-04.jpg"
     }
 ]
